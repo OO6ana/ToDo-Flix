@@ -1,7 +1,7 @@
 import styled from "styled-components"
 
 export const Container = styled.div`
-    border: 2px solid green;
+    /* border: 2px solid green; */
     height: 100vh;
     background: #000000;
     padding: 0 2rem;
@@ -10,10 +10,10 @@ export const Header = styled.header`
     width: 100%;
     display: flex;
     justify-content: space-between;
-    border: 2px solid pink;
+    /* border: 2px solid pink; */
 `
 export const MenuBox = styled.div`
-    border: 1px solid red;
+    /* border: 1px solid red; */
     color: #fff;
     display: flex;
     align-items: center;
@@ -28,7 +28,7 @@ export const MenuBox = styled.div`
     }
 `
 export const InteractionBox = styled.div`
-    border: 2px solid grey;
+    /* border: 2px solid grey; */
     display: flex;
     align-items: center;
 
