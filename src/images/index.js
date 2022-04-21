@@ -1,0 +1,1 @@
+export { default as PosterTeste } from './poster-capitaofantastico.png'
