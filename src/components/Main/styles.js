@@ -4,6 +4,8 @@ export const Container = styled.div`
     background: #000000;
     padding: 4rem 2rem;
     color: #ffff;
+
+    height: calc(100vh - 40px);
 `
 export const BoxInfo = styled.div`
     display: flex;
